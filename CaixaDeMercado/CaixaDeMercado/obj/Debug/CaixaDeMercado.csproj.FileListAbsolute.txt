@@ -1,0 +1,10 @@
+C:\Users\USER\Desktop\Matéria terceiro periodo\EstruturaDeDados\CaixaDeMercado\CaixaDeMercado\bin\Debug\CaixaDeMercado.exe.config
+C:\Users\USER\Desktop\Matéria terceiro periodo\EstruturaDeDados\CaixaDeMercado\CaixaDeMercado\bin\Debug\CaixaDeMercado.exe
+C:\Users\USER\Desktop\Matéria terceiro periodo\EstruturaDeDados\CaixaDeMercado\CaixaDeMercado\bin\Debug\CaixaDeMercado.pdb
+C:\Users\USER\Desktop\Matéria terceiro periodo\EstruturaDeDados\CaixaDeMercado\CaixaDeMercado\obj\Debug\CaixaDeMercado.Form1.resources
+C:\Users\USER\Desktop\Matéria terceiro periodo\EstruturaDeDados\CaixaDeMercado\CaixaDeMercado\obj\Debug\CaixaDeMercado.Properties.Resources.resources
+C:\Users\USER\Desktop\Matéria terceiro periodo\EstruturaDeDados\CaixaDeMercado\CaixaDeMercado\obj\Debug\CaixaDeMercado.csproj.GenerateResource.cache
+C:\Users\USER\Desktop\Matéria terceiro periodo\EstruturaDeDados\CaixaDeMercado\CaixaDeMercado\obj\Debug\CaixaDeMercado.csproj.CoreCompileInputs.cache
+C:\Users\USER\Desktop\Matéria terceiro periodo\EstruturaDeDados\CaixaDeMercado\CaixaDeMercado\obj\Debug\CaixaDeMercado.exe
+C:\Users\USER\Desktop\Matéria terceiro periodo\EstruturaDeDados\CaixaDeMercado\CaixaDeMercado\obj\Debug\CaixaDeMercado.pdb
+C:\Users\USER\Desktop\Matéria terceiro periodo\EstruturaDeDados\CaixaDeMercado\CaixaDeMercado\obj\Debug\CaixaDeMercado.csprojAssemblyReference.cache

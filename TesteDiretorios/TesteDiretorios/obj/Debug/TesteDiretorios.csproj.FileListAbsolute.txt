@@ -1,0 +1,10 @@
+C:\Users\USER\Desktop\Matéria terceiro periodo\EstruturaDeDados\TesteDiretorios\TesteDiretorios\bin\Debug\TesteDiretorios.exe.config
+C:\Users\USER\Desktop\Matéria terceiro periodo\EstruturaDeDados\TesteDiretorios\TesteDiretorios\bin\Debug\TesteDiretorios.exe
+C:\Users\USER\Desktop\Matéria terceiro periodo\EstruturaDeDados\TesteDiretorios\TesteDiretorios\bin\Debug\TesteDiretorios.pdb
+C:\Users\USER\Desktop\Matéria terceiro periodo\EstruturaDeDados\TesteDiretorios\TesteDiretorios\obj\Debug\TesteDiretorios.csprojAssemblyReference.cache
+C:\Users\USER\Desktop\Matéria terceiro periodo\EstruturaDeDados\TesteDiretorios\TesteDiretorios\obj\Debug\TesteDiretorios.Form1.resources
+C:\Users\USER\Desktop\Matéria terceiro periodo\EstruturaDeDados\TesteDiretorios\TesteDiretorios\obj\Debug\TesteDiretorios.Properties.Resources.resources
+C:\Users\USER\Desktop\Matéria terceiro periodo\EstruturaDeDados\TesteDiretorios\TesteDiretorios\obj\Debug\TesteDiretorios.csproj.GenerateResource.cache
+C:\Users\USER\Desktop\Matéria terceiro periodo\EstruturaDeDados\TesteDiretorios\TesteDiretorios\obj\Debug\TesteDiretorios.csproj.CoreCompileInputs.cache
+C:\Users\USER\Desktop\Matéria terceiro periodo\EstruturaDeDados\TesteDiretorios\TesteDiretorios\obj\Debug\TesteDiretorios.exe
+C:\Users\USER\Desktop\Matéria terceiro periodo\EstruturaDeDados\TesteDiretorios\TesteDiretorios\obj\Debug\TesteDiretorios.pdb

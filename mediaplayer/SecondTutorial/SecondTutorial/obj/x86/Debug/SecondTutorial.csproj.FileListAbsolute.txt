@@ -1,0 +1,10 @@
+D:\Users\Montana\Desktop\tutorials\SecondTutorial\SecondTutorial\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\Users\Montana\Desktop\tutorials\SecondTutorial\SecondTutorial\obj\x86\Debug\SecondTutorial.Properties.Resources.resources
+D:\Users\Montana\Desktop\tutorials\SecondTutorial\SecondTutorial\obj\x86\Debug\GenerateResource.read.1.tlog
+D:\Users\Montana\Desktop\tutorials\SecondTutorial\SecondTutorial\obj\x86\Debug\GenerateResource.write.1.tlog
+D:\Users\Montana\Desktop\tutorials\SecondTutorial\SecondTutorial\obj\x86\Debug\SecondTutorial.Form1.resources
+D:\Users\Montana\Desktop\tutorials\SecondTutorial\SecondTutorial\bin\Debug\SecondTutorial.exe
+D:\Users\Montana\Desktop\tutorials\SecondTutorial\SecondTutorial\bin\Debug\SecondTutorial.pdb
+D:\Users\Montana\Desktop\tutorials\SecondTutorial\SecondTutorial\bin\Debug\NAudio.dll
+D:\Users\Montana\Desktop\tutorials\SecondTutorial\SecondTutorial\obj\x86\Debug\SecondTutorial.exe
+D:\Users\Montana\Desktop\tutorials\SecondTutorial\SecondTutorial\obj\x86\Debug\SecondTutorial.pdb

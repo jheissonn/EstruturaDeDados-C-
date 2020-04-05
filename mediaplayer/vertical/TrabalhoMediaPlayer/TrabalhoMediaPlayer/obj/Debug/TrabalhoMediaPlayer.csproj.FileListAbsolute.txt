@@ -1,0 +1,40 @@
+C:\Users\USER\Desktop\Matéria terceiro periodo\EstruturaDeDados\mediaplayer\TrabalhoMediaPlayer\TrabalhoMediaPlayer\bin\Debug\TrabalhoMediaPlayer.exe.config
+C:\Users\USER\Desktop\Matéria terceiro periodo\EstruturaDeDados\mediaplayer\TrabalhoMediaPlayer\TrabalhoMediaPlayer\bin\Debug\TrabalhoMediaPlayer.exe
+C:\Users\USER\Desktop\Matéria terceiro periodo\EstruturaDeDados\mediaplayer\TrabalhoMediaPlayer\TrabalhoMediaPlayer\bin\Debug\TrabalhoMediaPlayer.pdb
+C:\Users\USER\Desktop\Matéria terceiro periodo\EstruturaDeDados\mediaplayer\TrabalhoMediaPlayer\TrabalhoMediaPlayer\obj\Debug\TrabalhoMediaPlayer.csprojAssemblyReference.cache
+C:\Users\USER\Desktop\Matéria terceiro periodo\EstruturaDeDados\mediaplayer\TrabalhoMediaPlayer\TrabalhoMediaPlayer\obj\Debug\TrabalhoMediaPlayer.Form1.resources
+C:\Users\USER\Desktop\Matéria terceiro periodo\EstruturaDeDados\mediaplayer\TrabalhoMediaPlayer\TrabalhoMediaPlayer\obj\Debug\TrabalhoMediaPlayer.Properties.Resources.resources
+C:\Users\USER\Desktop\Matéria terceiro periodo\EstruturaDeDados\mediaplayer\TrabalhoMediaPlayer\TrabalhoMediaPlayer\obj\Debug\TrabalhoMediaPlayer.csproj.GenerateResource.cache
+C:\Users\USER\Desktop\Matéria terceiro periodo\EstruturaDeDados\mediaplayer\TrabalhoMediaPlayer\TrabalhoMediaPlayer\obj\Debug\TrabalhoMediaPlayer.csproj.CoreCompileInputs.cache
+C:\Users\USER\Desktop\Matéria terceiro periodo\EstruturaDeDados\mediaplayer\TrabalhoMediaPlayer\TrabalhoMediaPlayer\obj\Debug\TrabalhoMediaPlayer.exe
+C:\Users\USER\Desktop\Matéria terceiro periodo\EstruturaDeDados\mediaplayer\TrabalhoMediaPlayer\TrabalhoMediaPlayer\obj\Debug\TrabalhoMediaPlayer.pdb
+C:\Users\USER\Desktop\Matéria terceiro periodo\EstruturaDeDados\mediaplayer\TrabalhoMediaPlayer\TrabalhoMediaPlayer\bin\Debug\Interop.WMPLib.dll
+C:\Users\USER\Desktop\Matéria terceiro periodo\EstruturaDeDados\mediaplayer\TrabalhoMediaPlayer\TrabalhoMediaPlayer\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\USER\Desktop\Matéria terceiro periodo\EstruturaDeDados\mediaplayer\TrabalhoMediaPlayer\TrabalhoMediaPlayer\obj\Debug\Interop.WMPLib.dll
+C:\Users\USER\Desktop\Matéria terceiro periodo\EstruturaDeDados\mediaplayer\TrabalhoMediaPlayer\TrabalhoMediaPlayer\obj\Debug\AxInterop.WMPLib.dll
+C:\Users\USER\Desktop\Matéria terceiro periodo\EstruturaDeDados\mediaplayer\TrabalhoMediaPlayer\TrabalhoMediaPlayer\obj\Debug\TrabalhoMediaPlayer.csproj.ResolveComReference.cache
+C:\Users\lucas\OneDrive - Complexo de Ensino Superior do Brasil LTDA\TrabalhoMediaPlayer\TrabalhoMediaPlayer\bin\Debug\TrabalhoMediaPlayer.exe.config
+C:\Users\lucas\OneDrive - Complexo de Ensino Superior do Brasil LTDA\TrabalhoMediaPlayer\TrabalhoMediaPlayer\bin\Debug\TrabalhoMediaPlayer.exe
+C:\Users\lucas\OneDrive - Complexo de Ensino Superior do Brasil LTDA\TrabalhoMediaPlayer\TrabalhoMediaPlayer\bin\Debug\TrabalhoMediaPlayer.pdb
+C:\Users\lucas\OneDrive - Complexo de Ensino Superior do Brasil LTDA\TrabalhoMediaPlayer\TrabalhoMediaPlayer\bin\Debug\NAudio.dll
+C:\Users\lucas\OneDrive - Complexo de Ensino Superior do Brasil LTDA\TrabalhoMediaPlayer\TrabalhoMediaPlayer\bin\Debug\NAudio.xml
+C:\Users\lucas\OneDrive - Complexo de Ensino Superior do Brasil LTDA\TrabalhoMediaPlayer\TrabalhoMediaPlayer\obj\Debug\TrabalhoMediaPlayer.Form1.resources
+C:\Users\lucas\OneDrive - Complexo de Ensino Superior do Brasil LTDA\TrabalhoMediaPlayer\TrabalhoMediaPlayer\obj\Debug\TrabalhoMediaPlayer.Properties.Resources.resources
+C:\Users\lucas\OneDrive - Complexo de Ensino Superior do Brasil LTDA\TrabalhoMediaPlayer\TrabalhoMediaPlayer\obj\Debug\TrabalhoMediaPlayer.csproj.GenerateResource.cache
+C:\Users\lucas\OneDrive - Complexo de Ensino Superior do Brasil LTDA\TrabalhoMediaPlayer\TrabalhoMediaPlayer\obj\Debug\TrabalhoMediaPlayer.csproj.CoreCompileInputs.cache
+C:\Users\lucas\OneDrive - Complexo de Ensino Superior do Brasil LTDA\TrabalhoMediaPlayer\TrabalhoMediaPlayer\obj\Debug\TrabalhoMediaPlayer.csproj.CopyComplete
+C:\Users\lucas\OneDrive - Complexo de Ensino Superior do Brasil LTDA\TrabalhoMediaPlayer\TrabalhoMediaPlayer\obj\Debug\TrabalhoMediaPlayer.exe
+C:\Users\lucas\OneDrive - Complexo de Ensino Superior do Brasil LTDA\TrabalhoMediaPlayer\TrabalhoMediaPlayer\obj\Debug\TrabalhoMediaPlayer.pdb
+C:\Users\USER\Desktop\Matéria terceiro periodo\EstruturaDeDados\mediaplayer\vertical\TrabalhoMediaPlayer\TrabalhoMediaPlayer\bin\Debug\TrabalhoMediaPlayer.exe.config
+C:\Users\USER\Desktop\Matéria terceiro periodo\EstruturaDeDados\mediaplayer\vertical\TrabalhoMediaPlayer\TrabalhoMediaPlayer\bin\Debug\TrabalhoMediaPlayer.exe
+C:\Users\USER\Desktop\Matéria terceiro periodo\EstruturaDeDados\mediaplayer\vertical\TrabalhoMediaPlayer\TrabalhoMediaPlayer\bin\Debug\TrabalhoMediaPlayer.pdb
+C:\Users\USER\Desktop\Matéria terceiro periodo\EstruturaDeDados\mediaplayer\vertical\TrabalhoMediaPlayer\TrabalhoMediaPlayer\bin\Debug\NAudio.dll
+C:\Users\USER\Desktop\Matéria terceiro periodo\EstruturaDeDados\mediaplayer\vertical\TrabalhoMediaPlayer\TrabalhoMediaPlayer\bin\Debug\NAudio.xml
+C:\Users\USER\Desktop\Matéria terceiro periodo\EstruturaDeDados\mediaplayer\vertical\TrabalhoMediaPlayer\TrabalhoMediaPlayer\obj\Debug\TrabalhoMediaPlayer.csprojAssemblyReference.cache
+C:\Users\USER\Desktop\Matéria terceiro periodo\EstruturaDeDados\mediaplayer\vertical\TrabalhoMediaPlayer\TrabalhoMediaPlayer\obj\Debug\TrabalhoMediaPlayer.Form1.resources
+C:\Users\USER\Desktop\Matéria terceiro periodo\EstruturaDeDados\mediaplayer\vertical\TrabalhoMediaPlayer\TrabalhoMediaPlayer\obj\Debug\TrabalhoMediaPlayer.Properties.Resources.resources
+C:\Users\USER\Desktop\Matéria terceiro periodo\EstruturaDeDados\mediaplayer\vertical\TrabalhoMediaPlayer\TrabalhoMediaPlayer\obj\Debug\TrabalhoMediaPlayer.csproj.GenerateResource.cache
+C:\Users\USER\Desktop\Matéria terceiro periodo\EstruturaDeDados\mediaplayer\vertical\TrabalhoMediaPlayer\TrabalhoMediaPlayer\obj\Debug\TrabalhoMediaPlayer.csproj.CoreCompileInputs.cache
+C:\Users\USER\Desktop\Matéria terceiro periodo\EstruturaDeDados\mediaplayer\vertical\TrabalhoMediaPlayer\TrabalhoMediaPlayer\obj\Debug\TrabalhoMediaPlayer.csproj.CopyComplete
+C:\Users\USER\Desktop\Matéria terceiro periodo\EstruturaDeDados\mediaplayer\vertical\TrabalhoMediaPlayer\TrabalhoMediaPlayer\obj\Debug\TrabalhoMediaPlayer.exe
+C:\Users\USER\Desktop\Matéria terceiro periodo\EstruturaDeDados\mediaplayer\vertical\TrabalhoMediaPlayer\TrabalhoMediaPlayer\obj\Debug\TrabalhoMediaPlayer.pdb

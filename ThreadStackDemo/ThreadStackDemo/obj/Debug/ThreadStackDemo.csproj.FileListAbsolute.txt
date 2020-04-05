@@ -1,0 +1,14 @@
+C:\Users\Bonilha\OneDrive\Visual Studio 2017\ThreadStackDemo\ThreadStackDemo\bin\Debug\ThreadStackDemo.exe.config
+C:\Users\Bonilha\OneDrive\Visual Studio 2017\ThreadStackDemo\ThreadStackDemo\bin\Debug\ThreadStackDemo.exe.manifest
+C:\Users\Bonilha\OneDrive\Visual Studio 2017\ThreadStackDemo\ThreadStackDemo\bin\Debug\ThreadStackDemo.application
+C:\Users\Bonilha\OneDrive\Visual Studio 2017\ThreadStackDemo\ThreadStackDemo\bin\Debug\ThreadStackDemo.exe
+C:\Users\Bonilha\OneDrive\Visual Studio 2017\ThreadStackDemo\ThreadStackDemo\bin\Debug\ThreadStackDemo.pdb
+C:\Users\Bonilha\OneDrive\Visual Studio 2017\ThreadStackDemo\ThreadStackDemo\obj\Debug\ThreadStackDemo.Form1.resources
+C:\Users\Bonilha\OneDrive\Visual Studio 2017\ThreadStackDemo\ThreadStackDemo\obj\Debug\ThreadStackDemo.Properties.Resources.resources
+C:\Users\Bonilha\OneDrive\Visual Studio 2017\ThreadStackDemo\ThreadStackDemo\obj\Debug\ThreadStackDemo.csproj.GenerateResource.cache
+C:\Users\Bonilha\OneDrive\Visual Studio 2017\ThreadStackDemo\ThreadStackDemo\obj\Debug\ThreadStackDemo.csproj.CoreCompileInputs.cache
+C:\Users\Bonilha\OneDrive\Visual Studio 2017\ThreadStackDemo\ThreadStackDemo\obj\Debug\ThreadStackDemo.exe.manifest
+C:\Users\Bonilha\OneDrive\Visual Studio 2017\ThreadStackDemo\ThreadStackDemo\obj\Debug\ThreadStackDemo.application
+C:\Users\Bonilha\OneDrive\Visual Studio 2017\ThreadStackDemo\ThreadStackDemo\obj\Debug\ThreadStackDemo.exe
+C:\Users\Bonilha\OneDrive\Visual Studio 2017\ThreadStackDemo\ThreadStackDemo\obj\Debug\ThreadStackDemo.pdb
+C:\Users\Bonilha\OneDrive\Visual Studio 2017\ThreadStackDemo\ThreadStackDemo\obj\Debug\ThreadStackDemo.csprojAssemblyReference.cache

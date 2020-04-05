@@ -1,0 +1,94 @@
+using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Text;
+using System.Threading.Tasks;
+
+namespace TrabalhoMediaPlayer
+{
+    class ListaEncadeada
+    {
+
+        private Node Head;
+        private int qtde;
+
+        public ListaEncadeada() {
+
+            this.Head = null;
+            this.qtde = 0;
+
+        }
+
+        public bool  IsEmpty {
+            get { return this.qtde == 0; }
+
+        }
+
+        public int count {
+
+            get { return this.qtde; }
+           
+        }
+
+        public Object Add(int index, object o)
+        {
+            if (index < 0) {
+                throw new ArgumentOutOfRangeException("Index " + index);
+            }
+            if (index > qtde)
+                index = qtde;
+
+            Node atual = this.Head;
+
+            if (this.IsEmpty || qtde == 0)
+            {
+                this.Head = new Node(o, this.Head);
+            }
+            else {
+
+                for (int i = 0; i < index - 1; i++)
+                    atual = atual.Proximo;
+                atual.Proximo = new Node(o, atual.Proximo);
+            }
+            qtde++;
+
+            return o;
+
+        }
+        public object Add(object o) {
+            return this.Add(count, o);
+        }
+
+        public object Remove(int index) {
+
+            if (index < 0) 
+                throw new ArgumentOutOfRangeException("Index: " + index);
+            if (this.IsEmpty)
+                return null;
+            if (index < this.qtde)
+                index = count - 1;
+
+            Node atual = this.Head;
+            object result = null;
+
+            if (index == 0)
+            {
+                result = atual.Item;
+                this.Head = atual.Proximo;
+            }
+            else {
+                for (int i = 0; i < index - 1; i++) {
+                    atual = atual.Proximo;
+                }
+                result = atual.Proximo.Item;
+                atual = atual.Proximo.Proximo;
+            }
+
+            return result;
+
+        }
+
+
+
+    }
+}

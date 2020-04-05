@@ -1,0 +1,10 @@
+C:\Users\USER\Desktop\Matéria terceiro periodo\EstruturaDeDados\TentativaSudoku\TentativaSudoku\bin\Debug\TentativaSudoku.exe.config
+C:\Users\USER\Desktop\Matéria terceiro periodo\EstruturaDeDados\TentativaSudoku\TentativaSudoku\bin\Debug\TentativaSudoku.exe
+C:\Users\USER\Desktop\Matéria terceiro periodo\EstruturaDeDados\TentativaSudoku\TentativaSudoku\bin\Debug\TentativaSudoku.pdb
+C:\Users\USER\Desktop\Matéria terceiro periodo\EstruturaDeDados\TentativaSudoku\TentativaSudoku\obj\Debug\TentativaSudoku.csprojAssemblyReference.cache
+C:\Users\USER\Desktop\Matéria terceiro periodo\EstruturaDeDados\TentativaSudoku\TentativaSudoku\obj\Debug\TentativaSudoku.Form1.resources
+C:\Users\USER\Desktop\Matéria terceiro periodo\EstruturaDeDados\TentativaSudoku\TentativaSudoku\obj\Debug\TentativaSudoku.Properties.Resources.resources
+C:\Users\USER\Desktop\Matéria terceiro periodo\EstruturaDeDados\TentativaSudoku\TentativaSudoku\obj\Debug\TentativaSudoku.csproj.GenerateResource.cache
+C:\Users\USER\Desktop\Matéria terceiro periodo\EstruturaDeDados\TentativaSudoku\TentativaSudoku\obj\Debug\TentativaSudoku.csproj.CoreCompileInputs.cache
+C:\Users\USER\Desktop\Matéria terceiro periodo\EstruturaDeDados\TentativaSudoku\TentativaSudoku\obj\Debug\TentativaSudoku.exe
+C:\Users\USER\Desktop\Matéria terceiro periodo\EstruturaDeDados\TentativaSudoku\TentativaSudoku\obj\Debug\TentativaSudoku.pdb

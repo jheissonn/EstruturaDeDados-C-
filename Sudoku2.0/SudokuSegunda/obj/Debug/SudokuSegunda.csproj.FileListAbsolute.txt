@@ -1,0 +1,10 @@
+C:\Users\USER\Desktop\Matéria terceiro periodo\EstruturaDeDados\SudokuSegunda\SudokuSegunda\bin\Debug\SudokuSegunda.exe.config
+C:\Users\USER\Desktop\Matéria terceiro periodo\EstruturaDeDados\SudokuSegunda\SudokuSegunda\bin\Debug\SudokuSegunda.exe
+C:\Users\USER\Desktop\Matéria terceiro periodo\EstruturaDeDados\SudokuSegunda\SudokuSegunda\bin\Debug\SudokuSegunda.pdb
+C:\Users\USER\Desktop\Matéria terceiro periodo\EstruturaDeDados\SudokuSegunda\SudokuSegunda\obj\Debug\SudokuSegunda.csprojAssemblyReference.cache
+C:\Users\USER\Desktop\Matéria terceiro periodo\EstruturaDeDados\SudokuSegunda\SudokuSegunda\obj\Debug\SudokuSegunda.Form1.resources
+C:\Users\USER\Desktop\Matéria terceiro periodo\EstruturaDeDados\SudokuSegunda\SudokuSegunda\obj\Debug\SudokuSegunda.Properties.Resources.resources
+C:\Users\USER\Desktop\Matéria terceiro periodo\EstruturaDeDados\SudokuSegunda\SudokuSegunda\obj\Debug\SudokuSegunda.csproj.GenerateResource.cache
+C:\Users\USER\Desktop\Matéria terceiro periodo\EstruturaDeDados\SudokuSegunda\SudokuSegunda\obj\Debug\SudokuSegunda.csproj.CoreCompileInputs.cache
+C:\Users\USER\Desktop\Matéria terceiro periodo\EstruturaDeDados\SudokuSegunda\SudokuSegunda\obj\Debug\SudokuSegunda.exe
+C:\Users\USER\Desktop\Matéria terceiro periodo\EstruturaDeDados\SudokuSegunda\SudokuSegunda\obj\Debug\SudokuSegunda.pdb

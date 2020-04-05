@@ -1,0 +1,286 @@
+using System;
+
+namespace Systepic.Collections
+{
+   /// <summary>
+   /// Event Handler designed to be thrown
+   /// when a collection’s list items change.
+   /// </summary>
+   /// <param name=“sender”>The list that
+   /// fired the event.</param>
+   /// <param name=“e”>Information about
+   /// what the event did.</param>
+   public delegate void CollectionEventHandler(
+        Object sender, CollectionEventArgs e);
+
+   /// <summary>
+   /// Class inheriting from EventArgs designed
+   /// to hold information about the state change
+   /// of a collection.
+   /// </summary>
+   public class CollectionEventArgs : EventArgs
+   {
+        public CollectionEventArgs():base(){}
+   }
+
+   /// <summary>
+   /// A generic sortable linked list.
+   /// </summary>
+   /// <typeparam name=“T”>The type
+   /// that the linked list is. The type
+   /// should be a valuetype or a string
+   /// in order to be sorted.</typeparam>
+   public class LinkedList<T>
+   {
+        /// <summary>
+        /// An event fired whenever the collection
+        /// contents change.
+        /// </summary>
+        public event CollectionEventHandler ListChanged;
+
+        /// <summary>
+        /// The initial node to iterate in the list.
+        /// </summary>
+        private Node<T> firstNode;
+
+        /// <summary>
+        /// The number of items in the linked list.
+        /// </summary>
+        private int count;
+
+        /// <summary>
+        /// Whether or not it is a sorted list.
+        /// </summary>
+        private bool sorted;
+
+        /// <summary>
+        /// Create a new unsorted
+        /// linked list.
+        /// </summary>
+        public LinkedList() : this(false) { }
+
+        /// <summary>
+        /// Create a new linked list that
+        /// can be a sorted linked list.
+        /// </summary>
+        /// <param name=“sorted”>Whether or not
+        /// the linked list should be sorted.</param>
+        public LinkedList(bool sorted)
+        {
+            this.count = 0;
+            this.sorted = sorted;
+        }
+
+        /// <summary>
+        /// Adds an item to the end of the current
+        /// linked list. If the linked list is a
+        /// sorted list, the list is re-sorted.
+        /// </summary>
+        /// <param name=“item”>The item that should
+        /// be added to the linked list.</param>
+        /// <returns>Whether or not the item was
+        /// added successfully.</returns>
+        public bool Add(T item)
+        {
+            // Add if there is none
+            if (this.count == 0)
+               this.firstNode = new Node<T>(item);
+            else
+            {
+               Node<T> temp = this.firstNode;
+               for (int x = 1; x < this.count; ++x)
+                    temp = temp.Next;
+
+               // Add a new item to the list
+               temp.Next = new Node<T>(
+                    item, temp, null);
+            }
+
+            // increment the counter.
+            ++count;
+
+            if (this.sorted) this.Sort();
+            
+            // fire the event
+            if (this.ListChanged != null)
+               this.ListChanged(this,
+                    new CollectionEventArgs());
+
+            // Call the insertAt method.
+            return true;
+        }
+
+        /// <summary>
+        /// Insert an item at a specified index in
+        /// the linked list. If the linked list is
+        /// a sorted list, the list is re-sorted.
+        /// </summary>
+        /// <param name=“item”>The item to add to the
+        /// linked list.</param>
+        /// <param name=“index”>The 0 based index of where
+        /// it should be added at.</param>
+        /// <returns>Whether or not the item was added
+        /// successfully.</returns>
+        public bool InsertAt(T item, int index)
+        {
+            // make sure the index is valid
+            if (index < 0)
+               throw new IndexOutOfRangeException();
+
+            if (index >= this.count)
+               throw new IndexOutOfRangeException();
+
+            // make sure there is an actual place to insert
+            if (count == 0)
+               return false;
+
+            // Create temp node to store info
+            Node<T> tempNode = new Node<T>(item);
+
+            // Create a temporary for iteration
+            Node<T> temp = this.firstNode;
+
+            // get to the specified index
+            for (int x = 1; x <= index; ++x)
+               temp = temp.Next;
+
+            // get the current reference.
+            if (index > 0)
+            {
+               Node<T> prev = temp.Previous;
+               prev.Next = tempNode;
+               tempNode.Previous = prev;
+            }
+
+            // set the references
+            tempNode.Next = temp;
+            temp.Previous = tempNode;
+
+            if (index == 0)
+               this.firstNode = tempNode;
+
+            // update the list information
+            ++count;
+
+            if(this.sorted) this.Sort();
+
+            // fire event
+            if (this.ListChanged != null)
+               this.ListChanged(this,
+                    new CollectionEventArgs());
+
+            return true;
+        }
+
+        /// <summary>
+        /// Find a particular item and remove
+        /// it from the linked list.
+        /// </summary>
+        /// <param name=“item”>The item to find
+        /// in the list.</param>
+        /// <returns>Whether or not the item
+        /// was removed successfully.</returns>
+        public bool Remove(T item)
+        {
+            // make sure we can remove
+            if (count < 1)
+               return false;
+
+            Node<T> temp = this.firstNode;
+
+            // Iterate and find item
+            for (int x = 1; x <= this.count; ++x)
+            {
+               if ((item as object) == (temp.Value as object))
+               {
+                    // Change the references
+                    if (temp.HasNext && temp.HasPrevious)
+                    {
+                        temp.Previous.Next = temp.Next;
+                        temp.Next.Previous = temp.Previous;
+                    }
+                    else if (temp.HasNext)
+                        temp.Next.Previous = null;
+                    else if (temp.HasPrevious)
+                        temp.Previous.Next = null;
+                    else
+                        temp = null;
+
+                    // Reset the first Node if we
+                    // removed it.
+                    if (x == 1 && temp != null)
+                        this.firstNode = temp.Next;
+
+                    // Handle the counter
+                    –count;
+               }
+
+               if (temp != null && temp.HasNext)
+                    temp = temp.Next;
+            }
+
+            // Resort the algorithm if it is
+            // a sorted algorithm
+            if (this.sorted) this.Sort();
+
+            // fire event
+            if (this.ListChanged != null)
+               this.ListChanged(this,
+                    new CollectionEventArgs());
+
+            return true;
+        }
+
+        /// <summary>
+        /// Sorts a list using insertion sort. Although
+        /// this algorithm is considered slow, since the
+        /// list is always almost sorted, the time to sort
+        /// the list is really fast whereas most high speed
+        /// algorithms will not beat this in this particular
+        /// instance because they handle near-sorted
+        /// algorithms the same as unsorted.
+        /// </summary>
+        /// <returns>Whether or not the
+        /// list was sorted successfully.</returns>
+        public bool Sort()
+        {
+            if (this.firstNode.Value is IComparable)
+            {
+               // check index out of range
+               if (this.firstNode.Next == null)
+                    return true;
+
+               // get the base comparison
+               Node<T> baseNode = this.firstNode.Next;
+
+               // traverse the nodes
+               for (int x = 2; x <= this.count; ++x)
+               {
+                    if ((baseNode.Previous.Value as
+                      IComparable).CompareTo(
+                        baseNode.Value) == 1)
+                    {
+                        Node<T> comp = this.firstNode;
+                        bool found = false;
+                        for (int y = 1; y < x && found != true; ++y)
+                        {
+                           if ((baseNode.Value as
+                                IComparable).CompareTo(comp.Value) != 1)
+                           {
+                                // We need to change the references
+                                // to all of the nodes to re-order them.
+                                if (baseNode.HasNext)
+                                {
+                                    baseNode.Next.Previous =
+                                       baseNode.Previous;
+                                    baseNode.Previous.Next =
+                                       baseNode.Next;
+                                }
+                           }
+                        }
+                    }
+                }
+            }
+        }
+    }
+}
